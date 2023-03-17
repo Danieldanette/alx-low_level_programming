@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Writing a C programming language with the printf function
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
