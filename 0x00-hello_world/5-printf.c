@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Writing a C programming language with the printf function
  * Return 0 (Success)
