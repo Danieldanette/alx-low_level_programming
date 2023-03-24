@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - print the numbera from 1 to 100, followed by a new line
@@ -14,7 +15,7 @@ int main(void)
 	{
 		if (i % 3 == 0 && i % 5 != 0)
 		{
-			iprintf("Fizz");
+			printf("Fizz");
 		} else if (i % 5 == 0 && i % 3 != 0)
 		{
 			printf("Buzz");
