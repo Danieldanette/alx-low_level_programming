@@ -5,7 +5,7 @@
 /**
  * argstostr - main entry
  * @ac: int input
- * @av: double pointer arra	
+ * @av: double pointer arra
  * Return: 0
  */
 
